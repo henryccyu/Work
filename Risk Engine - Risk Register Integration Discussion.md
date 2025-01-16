@@ -7,7 +7,7 @@
 - User access management: Define roles, permissions, and processes for managing system access to the API and related systems.
 #### Priority 1: State Management
 - Define and implement necessary APIs and processes for managing the state of risks within the system.  
--- Authentication and Authorization: Risk Engine will use managed identities to authenticate. There are two ways of provisioning the RiskEngine identity:
+- Authentication and Authorization: Risk Engine will use managed identities to authenticate. There are two ways of provisioning the RiskEngine identity:
   1. Create an ADO Work Item for Risk Register and let a DRI run scripts to provision the access.
   2. Follow SpaceTool steps to submit an admin consent request.
 
